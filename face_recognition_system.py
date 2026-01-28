@@ -556,3 +556,7 @@ class FaceRecognitionSystem:
 if __name__ == "__main__":
     system = FaceRecognitionSystem()
     system.run() 
+
+
+
+# OWNED BY MANISH KUMAR https://github.com/manish8557/attendance_automation/edit/main/face_recognition_system.py
